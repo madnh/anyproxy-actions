@@ -1,0 +1,12 @@
+{
+  "name": "anyproxy-actions",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Actions for AnyProxy's rule",
+  "main": "index.js",
+  "author": {
+    "name": "MaDnh",
+    "email": "dodanhmanh@gmail.com"
+  },
+  "license": "MIT"
+}
